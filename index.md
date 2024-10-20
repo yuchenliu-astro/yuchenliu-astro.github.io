@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/viareggio.jpg
+  src: /assets/img/myphoto.jpg
   alt: website picture
 ---
 
