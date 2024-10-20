@@ -8,7 +8,7 @@ url: "https://yuchenliu-astro.github.io" # the base hostname & protocol for the 
 og_image: /assets/img/myphoto.jpg
 google_analytics: "UA-121636368-3"
 
-header:
+header: Yuchen Liu
   pages:
     - name: Home
       slug: /
