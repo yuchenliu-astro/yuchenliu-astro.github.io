@@ -1,14 +1,14 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: /assets/img/viareggio.jpg
   alt: website picture
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  Hi, I am Yuchen Liu, a Ph.D. student from [the Kavli Institute for Astronomy and Astrophysics (KIAA)](http://kiaa.pku.edu.cn/), [Peking University](http://www.pku.edu.cn). My research interest includes high-redshift galaxies, galaxy evolution, reionization, imaging and spectroscopic data reduction, observing astronomy and statistic science.
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+  Feel free to explore my research and contact me. You can reach me at [this email](yuchen.liu@stu.pku.edu.cn).
 </p>
