@@ -39,7 +39,6 @@ footer:
 
 
 # Build settings
-theme: bay_jekyll_theme
 markdown: kramdown
 sass:
     style: :compressed
