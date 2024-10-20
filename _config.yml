@@ -3,7 +3,8 @@
 
 title: Yuchen Liu
 description: >- # this means to ignore newlines until "baseurl:"
-  Bay is a minimal Jekyll Theme.
+  Hi! My name is Yuchen Liu. I'm a Ph.D. student majoring in astronomy.
+baseurl: ""
 url: "https://yuchenliu-astro.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/myphoto.jpg
 google_analytics: "UA-121636368-3"
