@@ -26,11 +26,11 @@ footer:
       value: yuchen.liu@stu.pku.edu.cn
 
   follow:
-    - type: Google Scholar
+    - type: googlescholar
       name: Google Scholar
       link: https://scholar.google.com/citations?user=OqBD2X4AAAAJ&hl=en
       username: "@YourTwitterUsername"
-    - type: ORCID
+    - type: orcid
       name: ORCID
       link: https://orcid.org/0009-0008-6770-3583
     - type: github
