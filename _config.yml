@@ -27,7 +27,7 @@ footer:
 
   follow:
     - type: googlescholar
-      name: Google Scholar
+      name: G-Scholar
       link: https://scholar.google.com/citations?user=OqBD2X4AAAAJ&hl=en
       username: "@YourTwitterUsername"
     - type: orcid
