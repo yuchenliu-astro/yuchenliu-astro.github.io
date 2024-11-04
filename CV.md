@@ -62,8 +62,8 @@ Radial velocity measurements from LAMOST medium-resolution spectroscopic observa
 # Conferences
 
 - July 2024: **Two Lyman Continuum leakers in Abell2744 cluster field**, European Astronomical Society Annual Meeting, Poster (Padova, Italy)
-- September 2023: **Lyman Continuum emission from Spectroscopically Confirmed Ly $\alpha$ emitters at z$\sim$3.1**, Chinese Astronomical Society 2023 Annual Meeting, oral talk (Weihai, China)
-- May 2023: **Lyman Continuum emission from Spectroscopically Confirmed Ly $\alpha$ emitters at z$\sim$3.1**, "Guoshoujing" Academic Symposium and the Frontiers of Galaxy and Cosmology Symposium, oral talk & poster (Huangshan, China)
+- September 2023: **Lyman Continuum emission from Spectroscopically Confirmed Lyman Alpha emitters at z$\sim$3.1**, Chinese Astronomical Society 2023 Annual Meeting, oral talk (Weihai, China)
+- May 2023: **Lyman Continuum emission from Spectroscopically Confirmed Lyman Alpha emitters at z~3.1**, "Guoshoujing" Academic Symposium and the Frontiers of Galaxy and Cosmology Symposium, oral talk & poster (Huangshan, China)
 - March 2023: **Lyman Continuum galaxies at z~3 and CSST prospects**, CSST seminar on key issues in galaxy research, oral talk (Anqing, China)
 
 # Outreach
