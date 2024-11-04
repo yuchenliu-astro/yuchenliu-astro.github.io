@@ -15,6 +15,7 @@ header:
       slug: /
     - name: Research
     - name: CV
+      slug: /CV
     - name: Publication
     - name: More
 
