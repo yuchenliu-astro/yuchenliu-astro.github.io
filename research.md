@@ -1,20 +1,27 @@
 ---
 layout: research
-title: research
+title: Research
 slug: /research
 items:
-  - title: My Interest 1
+  - title: Lyman Continuum emission searching in large sample
     image:
       src: /assets/img/work/water.png
       alt: water
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: My Interest 2
+    description: So far, the number of known Lyman Continuum leakers especially at high redshift is very limited (less than 100). My research interest is to enlarge this sample.......
+  - title: Lyman Continuum galaxies physical properties and their mechanism
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    description: Finding these galaxies are not enough, we would like to figure out the mechanism of their escaping. Try to connet the z~3 with even higher redshift to explore the reionization.......
+  - title: Emission line galaxies at high redshift
+    image:
+    description: HUnting for emission line galaxies with powerful space telescopes.....
+
+  - title: JWST NIRISS data reduction (processing...)
+    image:
+    description: JWST NIRISS data reduction pipeline optimizing.....
 ---
 
-This is an example of a "Work" page, displaying your work, your interests, your projects.
+Here are the detailed introduction of my research interests. Some of them are just at the beginning stage. I am happy to discuss and always ready to learn new things!
 <br />
 <br />
