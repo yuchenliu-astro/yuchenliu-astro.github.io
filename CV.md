@@ -4,7 +4,8 @@ title: CV
 slug: /CV
 ---
 
-<p>This is my <a target="_blank" href="{{ "/assets/LiuYuchen_cv.pdf" | absolute_url }}">CV</a>.</p>.
+<p>This is my <a target="_blank" href="{{ "/assets/LiuYuchen_cv.pdf" | absolute_url }}">CV</a>.</p>
+
 # Education
 - 09/2020-present:      Peking University, Beijing, China	<br />
 Department of Astronomy & Kavli Institute for Astronomy and Astrophysics<br />
