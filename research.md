@@ -8,6 +8,9 @@ items:
       src: /assets/img/work/water.png
       alt: water
     description: So far, the number of known Lyman Continuum leakers especially at high redshift is very limited (less than 100). My research interest is to enlarge this sample.......
+
+    <img src="{{ "/assets/img/content/post-example/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
+    
   - title: Lyman Continuum galaxies physical properties and their mechanism
     image:
       src: /assets/img/work/sand.png
