@@ -18,6 +18,7 @@ header:
     - name: CV
       slug: /CV
     - name: Publication
+      slug: publication
     - name: More
 
 footer:
