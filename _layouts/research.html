@@ -23,6 +23,10 @@
               &mdash;
               {{ item.description }}
             </span>
+            <img
+              src="{{ item.image.src | absolute_url }}"
+              alt="{{ item.image.alt }}"
+            />
           </div>
           {% endfor %}
         </div>
