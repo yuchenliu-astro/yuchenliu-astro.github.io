@@ -54,7 +54,7 @@ Radial velocity measurements from LAMOST medium-resolution spectroscopic observa
 
 # Honors & Awards
 
-- 2023：“Lingyun” Pilot Scholarship for graduates (20K RMB) （灵均领航奖学金）
+- 2023：“Lingjun” Pilot Scholarship for graduates (20K RMB) （灵均领航奖学金）
 - 2023: Merit Student (北京大学三好学生）
 - 2022：Excellent Scientific Research Award（优秀科研奖）
 - 2021：Excellent Scientific Research Award（优秀科研奖）
