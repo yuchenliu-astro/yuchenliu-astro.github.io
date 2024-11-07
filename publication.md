@@ -1,6 +1,6 @@
 ---
 layout: CV
-title: Publication
+title: Publications
 slug: /CV
 ---
 
