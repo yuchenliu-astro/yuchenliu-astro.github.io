@@ -7,7 +7,11 @@ items:
     image:
       src: /assets/img/work/research.png
       alt: research
-    description: 
+    description: So far, the number of known Lyman Continuum leakers especially at high redshift is very limited (less than 100). My research interest is to enlarge this sample…….
+    image:
+      src: /assets/img/work/research.png
+      alt: research
+      
 
   - title: Lyman Continuum galaxies physical properties and their mechanism
     image:
