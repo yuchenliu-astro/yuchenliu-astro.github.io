@@ -27,6 +27,7 @@ items:
    
  - title: JWST NIRISS data reduction (processing...)
    description: JWST NIRISS data reduction pipeline optimizing.....
+---
 
 Here are the detailed introduction of my research interests. Some of them are just at the beginning stage. I am happy to discuss and always ready to learn new things!
 <br />
